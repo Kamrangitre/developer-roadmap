@@ -17,3 +17,8 @@ bash -x script.sh
 ```
 
 These debugging tools and options can drastically help you in making your scripts more error-proof and efficient.
+
+Visit the following sources to learn more: 
+- [@official@Official Bashdb Documentation](https://bashdb.readthedocs.io/en/latest/)
+- [@article@How To Debug a Bash Shell Script Under Linux or UNIX](https://www.cyberciti.biz/tips/debugging-shell-script.html)
+- [@article@Debugging a Bash Script](https://www.baeldung.com/linux/debug-bash-script)
